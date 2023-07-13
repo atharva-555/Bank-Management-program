@@ -1,6 +1,6 @@
 # Bank-Management-program
 
-**Introduction**
+**Introduction-**
 In this blog you will get the source code for a Bank Management program .This is a GUI program which is made with the help of tkinter library.You can use this code by connecting it to ATM's and different machines using proper algorithms and ICs.
 Using this program you can perform the following functions:-
 Create a new account
